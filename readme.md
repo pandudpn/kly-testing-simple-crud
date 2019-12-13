@@ -14,10 +14,10 @@ This is link demo from [Heroku](http://kly-simple-crud.herokuapp.com/public)
 You must clone this repository first for using this projects
 
 ```bash
-    // if you using HTTPS
+    #if you using HTTPS
     git clone https://github.com/pandudpn/kly-testing-simple-crud.git
 
-    // if you using SSH
+    #if you using SSH
     git@github.com:pandudpn/kly-testing-simple-crud.git
 ```
 
